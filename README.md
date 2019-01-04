@@ -13,7 +13,7 @@ Capabilities:
 
 You may run the sample:
 
-## Run:
+## Execute:
 * make all
 * ./sample_use
 
